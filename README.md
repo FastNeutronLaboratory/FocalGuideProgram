@@ -6,7 +6,7 @@ Date 2022/03/17
 
 Author Shigeo Matsuyama
 
-contact fastnutronlaboratory[@]@gmail.com
+contact fastnutronlaboratory[@]gmail.com
 
 //////////////////////////
 
