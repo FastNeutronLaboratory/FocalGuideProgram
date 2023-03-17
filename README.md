@@ -20,3 +20,6 @@ When installing the program
 　The other files are examples.
 3)Run C:\#######%%\installer\Volume\setup.exe to install the software.
 4)Manuals are stored in C:\%%%%%#####Manual\.
+
+
+Thnak you :)
